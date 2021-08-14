@@ -31,4 +31,7 @@ public class HumanTest {
         human.setFirstName("Ade1");
         Assertions.assertEquals("Ade1", human.getFirstName());
     }
+
+    @Test
+    public void test(){}
 }
